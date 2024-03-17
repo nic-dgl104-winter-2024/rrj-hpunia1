@@ -18,8 +18,9 @@ Useful Resources for Processing
 Several valuable resources exist for individuals interested in learning and utilizing Processing. The official Processing website, processing.org, is the primary source for downloading the Processing IDE, accessing reference materials, tutorials, and examples. 'Getting Started with Processing' by Casey Reas and Ben Fry is an essential book for beginners, providing a comprehensive introduction to the language and its capabilities. OpenProcessing, a community-driven platform, serves as a hub for sharing Processing sketches, exploring works by others, and learning through examples. The Coding Train on YouTube, managed by Daniel Shiffman, offers a wealth of video tutorials on Processing, covering basic to advanced topics in an engaging manner.
 
 Why are these specific resources useful?
-*The Processing website is the most authoritative source of information about Processing, providing everything from basic setup to advanced functionalities.
-*"Getting Started with Processing" breaks down the basics in a very reader-friendly manner, making it ideal for beginners.
-*OpenProcessing serves as both inspiration and education, showcasing the possibilities with Processing and allowing users to learn from real projects.
-*The Coding Train makes learning to code in Processing (and other languages) fun and accessible, with Daniel Shiffman's enthusiasm and clear explanations making complex concepts understandable.
-*Processing Foundation Forums offer a supportive community for problem-solving, advice, and showcasing projects, which is invaluable for learners at all levels.
+
+* The Processing website is the most authoritative source of information about Processing, providing everything from basic setup to advanced functionalities.
+* "Getting Started with Processing" breaks down the basics in a very reader-friendly manner, making it ideal for beginners.
+* OpenProcessing serves as both inspiration and education, showcasing the possibilities with Processing and allowing users to learn from real projects.
+* The Coding Train makes learning to code in Processing (and other languages) fun and accessible, with Daniel Shiffman's enthusiasm and clear explanations making complex concepts understandable.
+* Processing Foundation Forums offer a supportive community for problem-solving, advice, and showcasing projects, which is invaluable for learners at all levels.
