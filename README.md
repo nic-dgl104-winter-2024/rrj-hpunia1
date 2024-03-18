@@ -93,3 +93,9 @@ For example, the work of artist and programmer Zach Lieberman showcases the inno
 Processing, with its focus on visual arts and interactive design, has provided a gateway for artists to explore the world of programming. Its simplicity and immediate visual feedback make it an ideal platform for beginners to experiment with code and create visually compelling projects. This aligns with the theory of constructionism, which emphasizes learning through making and creating artifacts. By engaging with Processing, artists and educators can embody this theory, fostering a deeper understanding of programming principles through hands-on experiences.
 
 Python, as my next exploration, offers a versatile and accessible platform for beginners, making it an ideal choice for those looking to expand their programming skills. The language's readability and extensive libraries, such as NumPy and Pandas, have made it a popular choice for data science and machine learning applications. An example of Python's impact can be seen in the field of scientific research, where it has become a staple tool for data analysis and visualization.
+
+
+
+                                                         # Week 9              
+
+                                                         
