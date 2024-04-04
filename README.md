@@ -97,5 +97,40 @@ Python, as my next exploration, offers a versatile and accessible platform for b
 
 
                                                          # Week 9              
+# Activity 1-2: Read the Community Code Assignment and the Research and Reflection Guide
 
-                                                         
+We work in an open source community, where everyone from beginners to experts share challenges, share ideas, ask questions, and suggest improvements. Through this project, I am experiencing the practical application of coding. We started looking at open issues (or opportunities to participate) in selected open source projects on GitHub to see how we could most effectively contribute.
+
+After reading the Community Code assignment and research and reflection journal instructions, it clearly showed me how to easily complete the project step-by-step.
+
+# Activity 3: How to Contribute to Open Source
+
+To begin, it's beneficial to review the open source project's documentation, particularly the README files. These files offer insights into the project's objectives, functionality, and structure, along with guidelines, coding standards, and best practices for contributing. Reviewing the documentation also helps identify which tasks or issues have been addressed and which ones still need attention, providing opportunities for meaningful contributions.
+
+Next, we will explore the CONTRIBUTING.md document.
+
+This document provides detailed guidelines for contributing to the project, including the code of conduct, steps to set up a local development environment, requirements for submitting a pull request (PR), and instructions for running tests locally before pushing changes to GitHub. By reviewing this document, you can gain a clear understanding of the contribution process.
+
+# Activity 4: Find Potential Projects to Contribute to
+
+Task 1: The task involves visiting resources such as Good First Issue, Up for Grabs, and CodeTriage to discover potential projects that are aligned with the chosen language for community code, which in my case focuses on JavaScript.
+
+Task 2: Reviewing the checklist helps in assessing whether any of the projects meet the criteria. This process helps narrow down the options to three projects that are relevant to the requirements.
+
+Here are my three options:
+* Thinkswell
+I found my first contribution from Good first issue. Thhinkwell is an open repo, there are many small JS projects, issue to work on. So I choose the issue/Project to Create a simple bulb on-off button in JS.
+It has 100 Contributers and till date it has 69 active issues.
+<img width="580" alt="Screenshot 2024-04-03 at 8 12 48 PM" src="https://github.com/nic-dgl104-winter-2024/rrj-hpunia1/assets/144393163/84b5e547-0eb0-4815-ac6b-4383f32c7cff">
+
+* Openseadragon
+This Repo is an open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
+It has 169 contributers with 442 active issues.
+<img width="569" alt="Screenshot 2024-04-03 at 8 11 09 PM" src="https://github.com/nic-dgl104-winter-2024/rrj-hpunia1/assets/144393163/29705d69-2238-46f5-988f-e91c27a50f71">
+
+* Time-to-leave
+This repo provides Log work hours and get notified when it's time to leave the office and start to live.
+It has 151 contributers with 33 active issues.
+<img width="562" alt="Screenshot 2024-04-03 at 8 16 51 PM" src="https://github.com/nic-dgl104-winter-2024/rrj-hpunia1/assets/144393163/de694d47-b614-4732-9950-45b068f1c790">
+        
+## Explore Community Connections
