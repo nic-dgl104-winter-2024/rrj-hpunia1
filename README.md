@@ -96,7 +96,8 @@ Python, as my next exploration, offers a versatile and accessible platform for b
 
 
 
-                                                         # Week 9              
+                                                         # Week 9   
+                                                         
 # Activity 1-2: Read the Community Code Assignment and the Research and Reflection Guide
 
 We work in an open source community, where everyone from beginners to experts share challenges, share ideas, ask questions, and suggest improvements. Through this project, I am experiencing the practical application of coding. We started looking at open issues (or opportunities to participate) in selected open source projects on GitHub to see how we could most effectively contribute.
@@ -133,4 +134,54 @@ This repo provides Log work hours and get notified when it's time to leave the o
 It has 151 contributers with 33 active issues.
 <img width="562" alt="Screenshot 2024-04-03 at 8 16 51 PM" src="https://github.com/nic-dgl104-winter-2024/rrj-hpunia1/assets/144393163/de694d47-b614-4732-9950-45b068f1c790">
         
-## Explore Community Connections
+## IDENTIFY ISSUES TO SUPPORT
+* Issue 1
+Project : Bulb 0n/off switch
+Issue : Create a simple bulb on-off button in JS #969
+This issue is create a switch where Bulb should light up on toggle on and dark on toggle off. As a beginner, i was looking for a project that i can work on easily and I found this to learn and practice my Javascript skills.
+
+                                                           # Week 10   
+
+# Activity 1 - ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+
+The Thinkswell community is very supportive. From their contribution guidelines, I understand that they take all the possible measures to make it a positive and harassment-free community. I went through the available docs and have recorded the learning in the CONTRIBUTING.md file.
+
+# Activity 3 - CONTRIBUTE TO EXTERNAL COMMUNITY
+I forked and cloned the project. In the issue, steps to recreate the issue were mentioned. I am working on that part.
+
+# Activity 4 - CONTRIBUTE TO PATTERN-LIBRARY
+From the pattern library issues, I selected Final README.md editing pass for formatting consistency #21 issue and I got assigned to the issue with one more student. Documentation is also a important part of git projects. That's why I choose this.
+
+## FOLLOW-UP QUESTIONS AND REFLECTIONS
+What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?
+I found most challenging part is to find the right pattern library. So i discussed with other students and I found one repo where I can help the other student to complete the issues.
+
+                                                           # Week 11
+
+# Activity 1 - READ THROUGH PATTERN LIBRARY ISSUES
+I browsed through the issues and PRs of the pattern library. I spent some time browsing similar pattern library repos to identify things that can be added. I assign to review README.md files.
+
+# Activity 3 - CONTRIBUTE TO PATTERN-LIBRARY
+For the pattern library, I assigned by another student to work on README.md file. I have to review the following files 
+* Creational/Dart/README
+* Creational/Javascript/README
+* Creational/ReactNative/README
+* MVC/README
+* observers/README
+So I go throughly and update the files with making changes in it.
+
+                                                           # Week 12
+# Contribution to Pattern Library
+
+As I was assigned to work along other student on Final README.md editing pass for formatting consistency #21 issue. I have to go through the check liat and have to make changes in the README.md files in the filies mentioned below:
+* Creational/Dart/README
+* Creational/Javascript/README
+* Creational/ReactNative/README
+* MVC/README
+* observers/README
+During fixing the issues I found that few README.md files were empty. So rest of the files I updated with the corrections.
+
+# Refrences
+* Create a simple bulb on-off button in JS #969 thinkswell/javascript-mini-projects/issues/969
+* time-to-leave thamara/time-to-leave/
+* openseadragon openseadragon/openseadragon
