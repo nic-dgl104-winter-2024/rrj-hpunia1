@@ -185,3 +185,24 @@ During fixing the issues I found that few README.md files were empty. So rest of
 * Create a simple bulb on-off button in JS #969 thinkswell/javascript-mini-projects/issues/969
 * time-to-leave thamara/time-to-leave/
 * openseadragon openseadragon/openseadragon
+
+# Reflection
+Embarking on the DGL 104 Community Code project has been a transformative experience, offering a unique window into the collaborative world of open-source development. This journey was not just about writing code; it was about being part of a vibrant community, learning, growing, and contributing to something that extends far beyond individual efforts.
+
+Contributing to open-source projects like Thinkswell and the Pattern Library was an enlightening venture. It underscored the significance of community-driven development in shaping the software landscape. Open source is the cornerstone of innovation in the tech world, and being able to contribute to it was both a privilege and a learning opportunity. It was about adding value to tools and frameworks that countless developers across the globe rely on.
+
+## A Learning Curve with Rewards
+
+For someone like me, who was exploring JavaScript in greater depth, this project was the perfect practical classroom. Tackling issues such as creating a simple bulb on/off switch in JavaScript was not just about applying what I had learned; it was about diving deeper, understanding the nuances, and enhancing my skills. It was a hands-on experience that broadened my understanding of programming concepts and best practices.
+
+## The Power of Collaboration
+
+What truly stood out in this project was the sense of community. Engaging with other contributors, reviewing code, and discussing issues made me feel part of something bigger—a collective endeavor where everyone is working towards a common goal. This collaborative spirit is the lifeblood of open-source projects, and being immersed in it was both inspiring and humbling.
+
+## Overcoming Challenges
+
+The path was not always smooth. Navigating through complex codebases, grasping the intricacies of different projects, and ensuring that my contributions were up to the mark were challenges that tested my resolve. However, these hurdles were stepping stones to growth. They taught me the value of persistence, the importance of reaching out for help, and the satisfaction that comes from overcoming obstacles.
+
+## In Conclusion
+
+Reflecting on my experience in DGL 104, I am filled with gratitude for the opportunity to contribute to the open-source ecosystem. It was a journey that went beyond coding—it was about learning, sharing, and being part of something greater. As I look ahead, I am excited to take the lessons learned from this project and apply them to future endeavors, continuing to grow as a developer and a collaborator in the ever-evolving world of technology.
